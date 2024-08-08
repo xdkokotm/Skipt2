@@ -1,0 +1,3 @@
+command /telestick:
+    trigger:
+        make console execute command "/give @p golden_hoe[can_break={predicates:[{blocks:"yellow_stained_glass"}]},unbreakable={}] 1"
